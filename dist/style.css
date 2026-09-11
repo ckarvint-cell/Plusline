@@ -115,14 +115,7 @@ img{pointer-events:none;user-select:none;-webkit-user-select:none;-webkit-user-d
   display:inline-flex;
   align-items:center;
   gap:14px;
-  padding:10px 16px;
-  border:1px solid rgba(255,255,255,.7);
-  transition:background-color .2s,color .2s,opacity .2s;
-}
-.nav-compro:hover{
-  background:#fff;
-  color:#202620;
-  opacity:1;
+  padding:0;
 }
 @media(max-width:800px){
   .nav-compro{
